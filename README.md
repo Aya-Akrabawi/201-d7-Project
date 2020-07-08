@@ -20,7 +20,11 @@ And I will keep add more to this game so here are the stages:
    - add score feature to your answers so you can know your score of this game 
 
 **Author:** Aya Akrabawi
-
+```
+Function has been edited with help of Malek Hassan 
+*Driver:Malek Hassan*
+*Navegater:Aya Akrabawi*
+```
 
 **Links and Resources**
 
